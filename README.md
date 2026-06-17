@@ -8,10 +8,9 @@ small backend class for embeddings, sequence scoring, variant effect, SAE
 features, and generation.
 
 Built for the **ViDaB‑Embed B0.1** project (does Evo2's embedding space encode
-RNA‑virus taxonomy on out‑of‑distribution coral RdRp?). I'm a computational
-biologist, not a systems programmer — most of this was written with coding
-agents and then checked against a clean GPU run on vast.ai. It is shared as a
-working artifact, not a polished library.
+RNA‑virus taxonomy on out‑of‑distribution coral RdRp?). Most of it was written
+with coding agents and then checked against a clean full‑GPU run on vast.ai. It
+is shared as a working artifact, not a polished library.
 
 ## Why
 
